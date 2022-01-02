@@ -1,4 +1,9 @@
 # odin-recipes
 
-A website of recipes my only using htlm
-I'm doing this project to pratice my htlm skill
+The Chiken Dinner website
+Doing this project to pratice my htlm skill.
+
+
+Time of making this 03/January/2022 12:31 AM
+Hope you reach your goal future me
+~Dhafin 
