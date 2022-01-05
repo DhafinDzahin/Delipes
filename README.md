@@ -1,3 +1,3 @@
 # odin-recipes
 
-To lazy for this to write anything
+To lazy to write anything
